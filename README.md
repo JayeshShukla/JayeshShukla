@@ -1,10 +1,10 @@
-<h1 align="center">Hi 🙏🏼, I'm Jayesh Shukla 💤</h1>
+![web3](https://github.com/JayeshShukla/JayeshShukla/assets/32034966/60f4603d-fa38-4c1c-911a-d6bd6cbf9d79)<h1 align="center">Hi 🙏🏼, I'm Jayesh Shukla 💤</h1>
 <h3 align="center">Exploring the Web3 Frontier through Code Artistry. 3️⃣</h3>
 
 <p align="left"> <a href="https://twitter.com/jayeshs80659513" target="blank"><img src="https://img.shields.io/twitter/follow/jayeshs80659513?logo=twitter&style=for-the-badge" alt="jayeshs80659513" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://ipfs.filebase.io/ipfs/QmPo3Kmjze1i7FtPf8Zer3uUiqvrLRCMBct4Zvf32jwFjN
-" >
+![web3](https://github.com/JayeshShukla/JayeshShukla/assets/32034966/2e630d9d-19ac-4556-aa26-54a0124015c1)
+
 
 - 🔭 I’m currently working on : [nfts-by-address](https://github.com/JayeshShukla/nfts-by-address)
 

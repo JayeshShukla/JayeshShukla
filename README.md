@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/jayeshs80659513" target="blank"><img src="https://img.shields.io/twitter/follow/jayeshs80659513?logo=twitter&style=for-the-badge" alt="jayeshs80659513" /></a> </p>
 
-<img src="https://ipfs.filebase.io/ipfs/QmQzvKEocpyTFvkjVWdvjqTwzhroGbz4fQjMrKEKuAv1Gb" />
 
 - 🔭 I’m currently working on : [nfts-by-address](https://github.com/JayeshShukla/nfts-by-address)
 

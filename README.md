@@ -1,11 +1,15 @@
-![web3](https://github.com/JayeshShukla/JayeshShukla/assets/32034966/60f4603d-fa38-4c1c-911a-d6bd6cbf9d79)<h1 align="center">Hi 🙏🏼, I'm Jayesh Shukla 💤</h1>
+![web3](https://github.com/JayeshShukla/JayeshShukla/assets/32034966/60f4603d-fa38-4c1c-911a-d6bd6cbf9d79)
+
+<h1 align="center">Hi 🙏🏼, I'm Jayesh Shukla 💤</h1>
 <h3 align="center">Exploring the Web3 Frontier through Code Artistry. 3️⃣</h3>
 
-<p align="left"> <a href="https://twitter.com/jayeshs80659513" target="blank"><img src="https://img.shields.io/twitter/follow/jayeshs80659513?logo=twitter&style=for-the-badge" alt="jayeshs80659513" /></a> </p>
-
-![giphy](https://github.com/JayeshShukla/JayeshShukla/assets/32034966/ebf434fb-260c-465a-a7b5-ee9b6f9856a7)
-
-
+<p align="left"> 
+  <a href="https://twitter.com/jayeshs80659513" target="blank">
+    <img src="https://img.shields.io/twitter/follow/jayeshs80659513?logo=twitter&style=for-the-badge" alt="jayeshs80659513" /> 
+  </a> 
+  
+  ![giphy](https://github.com/JayeshShukla/JayeshShukla/assets/32034966/ebf434fb-260c-465a-a7b5-ee9b6f9856a7)
+</p>
 
 - 🔭 I’m currently working on : [nfts-by-address](https://github.com/JayeshShukla/nfts-by-address)
 

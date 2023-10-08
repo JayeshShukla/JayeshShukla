@@ -1,9 +1,8 @@
-<img src=”https://cdn.pixabay.com/photo/2015/09/16/08/55/online-942406_1280.jpg” />
 <h1 align="center">Hi 🙏🏼, I'm Jayesh Shukla 💤</h1>
 <h3 align="center">Exploring the Web3 Frontier through Code Artistry. 3️⃣</h3>
 
 <p align="left"> <a href="https://twitter.com/jayeshs80659513" target="blank"><img src="https://img.shields.io/twitter/follow/jayeshs80659513?logo=twitter&style=for-the-badge" alt="jayeshs80659513" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://uxdesign.cc/winning-the-web3-wild-wild-west-by-betting-on-the-builders-411ba1616fec" >
 
 - 🔭 I’m currently working on : [nfts-by-address](https://github.com/JayeshShukla/nfts-by-address)
 

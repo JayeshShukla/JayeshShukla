@@ -1,4 +1,4 @@
-<img src=”https://cdn.pixabay.com/photo/2015/09/16/08/55/online-942406_1280.jpg”/>
+<img src=”https://cdn.pixabay.com/photo/2015/09/16/08/55/online-942406_1280.jpg” />
 <h1 align="center">Hi 🙏🏼, I'm Jayesh Shukla 💤</h1>
 <h3 align="center">Exploring the Web3 Frontier through Code Artistry. 3️⃣</h3>
 

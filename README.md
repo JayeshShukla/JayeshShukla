@@ -4,7 +4,7 @@
 <h3 align="center">Exploring the Web3 Frontier through Code Artistry. 3️⃣</h3>
 
 <p align="left"> 
-  <a href="https://twitter.com/jayeshs80659513" target="blank">
+  <a href="https://twitter.com/hail_d_lord" target="blank">
     <img src="https://img.shields.io/twitter/follow/jayeshs80659513?logo=twitter&style=for-the-badge" alt="jayeshs80659513" /> 
   </a> 
   
@@ -23,7 +23,7 @@
 
 - 💬 Ask me about : **Typescript, Smart Contracts, Solidity ...**
 
-- 📫 How to reach me : **jayeshshukla17@gmail.com / [+91 7981307364]**
+- 📫 How to reach me : **jayeshshukla17@gmail.com**
 
 - ⚡ Joke I find Funny : **"Why did the Web3 developer bring a ladder to work? Because they wanted to reach the 'decentralized' cloud!" 😄**
 
